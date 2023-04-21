@@ -1,0 +1,2 @@
+# GraphQL-SkiDay
+GraphQL playground
